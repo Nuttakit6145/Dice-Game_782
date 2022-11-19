@@ -1,1 +1,1 @@
-# Dice-Game_782
+# Dice-Game
